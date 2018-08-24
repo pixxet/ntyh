@@ -24,7 +24,7 @@
 
 ### For help
 ```
-sudo ./add-dnsmasq-domain -h
+sudo ./nyth.sh -h
 ```
 
 
