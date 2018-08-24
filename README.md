@@ -9,22 +9,22 @@
 
 ## How to?
 ```
-./nyth.sh
+./ntyh.sh
 ```
 
 ### Or with given domain name
 ```
-./nyth.sh -d domain
+./ntyh.sh -d domain
 ```
 
 ### Remove already added domain name
 ```
-./nyth.sh -r domain
+./ntyh.sh -r domain
 ```
 
 ### For help
 ```
-sudo ./nyth.sh -h
+sudo ./ntyh.sh -h
 ```
 
 That's it! you can stop reading!
