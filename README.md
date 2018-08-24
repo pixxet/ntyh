@@ -27,14 +27,8 @@
 sudo ./nyth.sh -h
 ```
 
-
-### Setup
-
-#### Create config directory
-```
-mkdir -pv $(brew --prefix)/etc/
-```
-
+That's it! you can stop reading!
+Keep reading if you still need to know what it does or to do it manually.
 
 ## Setup manually
 
