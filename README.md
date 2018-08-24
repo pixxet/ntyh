@@ -27,6 +27,11 @@
 sudo ./ntyh.sh -h
 ```
 
+#### Dont forget to chmod +x
+```
+chmod +x ntyh.sh
+```
+
 That's it! you can stop reading!
 Keep reading if you still need to know what it does or to setup manually.
 
