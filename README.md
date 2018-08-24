@@ -9,20 +9,23 @@
 
 ## How to?
 ```
-./add-dnsmasq-domain
+./nyth.sh
 ```
 
 ### Or with given domain name
 ```
-./add-dnsmasq-domain -d domain
+./nyth.sh -d domain
+```
 
 ### Remove already added domain name
 ```
-./add-dnsmasq-domain -r domain
+./nyth.sh -r domain
+```
 
 ### For help
 ```
 sudo ./add-dnsmasq-domain -h
+```
 
 
 ### Setup
