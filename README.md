@@ -1,4 +1,4 @@
-# Never touch your local /etc/hosts file in OS X again
+# Never touch your local /etc/hosts file in OS X again (Inspired by https://alanthing.com/blog/2012/04/24/never-touch-your-local-etchosts-file-os-x-again/)
 
 > To setup your mac to work with *.test domains, e.g. project.test, awesome.test and so on, without having to add to your hosts file each time.
 
