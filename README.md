@@ -49,7 +49,7 @@ mkdir -pv $(brew --prefix)/etc/
 
 #### Setup *.dev
 ```
-echo 'address=/.dev/127.0.0.1' >> $(brew --prefix)/etc/dnsmasq.conf
+echo 'address=/.test/127.0.0.1' >> $(brew --prefix)/etc/dnsmasq.conf
 ```
 #### Change port for High Sierra
 ```
@@ -70,7 +70,7 @@ sudo mkdir -v /etc/resolver
 
 #### Add your nameserver to resolvers
 ```
-sudo bash -c 'echo "nameserver 127.0.0.1" > /etc/resolver/dev'
+sudo bash -c 'echo "nameserver 127.0.0.1" > /etc/resolver/test'
 ```
 
 That's it! You can run scutil --dns to show all of your current resolvers, and you should see that all requests for a domain ending in .dev will go to the DNS server at 127.0.0.1
