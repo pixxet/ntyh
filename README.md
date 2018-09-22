@@ -27,7 +27,7 @@
 sudo ./ntyh.sh -h
 ```
 
-#### Dont forget to chmod +x
+##### Don't forget to chmod +x
 ```
 chmod +x ntyh.sh
 ```
